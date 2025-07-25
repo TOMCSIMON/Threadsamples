@@ -12,7 +12,7 @@ public class Main {
     Thread thread1 = new Thread(new MyRunnable("PING"));
     Thread thread2 = new Thread(new MyRunnable("PONG"));
 
-    System.out.println("GAME START...");
+    System.out.println("GAME STARTED..");
 
     thread1.start();
     thread2.start();
