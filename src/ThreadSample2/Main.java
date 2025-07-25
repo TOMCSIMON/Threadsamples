@@ -26,5 +26,8 @@ public class Main {
     }
 
     System.out.println("GAME OVER!!");
+
+    // This is a sample change to test Git commit and push
+
   }
 }
