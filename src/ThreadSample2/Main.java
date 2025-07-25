@@ -7,6 +7,8 @@ public class Main {
     //                  (Thread = A set of instructions that ruu independently)
     //                  Useful for a background task or time-consuming operations
 
+    // Added in feature-thread branch
+
     Thread thread1 = new Thread(new MyRunnable("PING"));
     Thread thread2 = new Thread(new MyRunnable("PONG"));
 
