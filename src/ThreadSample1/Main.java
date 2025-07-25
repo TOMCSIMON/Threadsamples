@@ -13,6 +13,8 @@ public class Main {
     // Option 1. Extend the Thread class (simpler)
     // Option 2. Implement the Runnable interface (better)
 
+    // update from master (for git sample purpose)
+
     Scanner scanner = new Scanner(System.in);
 
     MyRunnable myRunnable = new MyRunnable();
